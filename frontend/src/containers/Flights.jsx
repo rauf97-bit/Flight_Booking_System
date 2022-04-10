@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+// import React, { useEffect, useState } from "react";
 import china from "../images/china_logo.png";
 import istanbul from "../images/istanbul_logo.png";
 import london from "../images/london_logo.png";
